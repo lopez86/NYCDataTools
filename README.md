@@ -9,6 +9,8 @@ Current features are:
 
   -Making plots of data arranged by these three geographic types.
 
+  -Some basic cleaning and preparation of census data and the NYC tree census data along with code to enter data into MySQL and/or Hive.
+
 The current features allow one to compare geospatial data from NYC to demographic features at the census tract (typical population of several thousand residents) level.
 
 ## Data used here
